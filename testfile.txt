@@ -1,5 +1,0 @@
-This is a new file that will be tested in the Test Machine. Test Machine is not created yet. 
-
-We will create Test Machine, add it in Jenkins.
-
-We will create a job called "PushtoTest" which will take this testfile.txt to Test Server. 
